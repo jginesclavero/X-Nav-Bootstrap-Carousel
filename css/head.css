@@ -1,0 +1,22 @@
+body {
+	background-color:#e8e8e8;
+}
+
+#header-img{
+	position: static;
+	text-align: right;
+	margin-top: -4%;
+
+}
+
+#links {
+
+	width: 45%;
+	margin-left: 50%;
+}
+
+#moodle {
+	margin-top: -21%;
+	margin-left: 7%;
+
+}
